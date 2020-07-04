@@ -2,10 +2,17 @@
 ---
 https://github.com/DesignRevision
 
+Shards UI Kit
+https://designrevision.com/
 
 
 
+[doc](https://designrevision.com/docs/shards/progress-bars.html)
 ```
+// doc
+// https://designrevision.com/docs/shards/progress-bars.html
+
+
 ```
 
 ```html
